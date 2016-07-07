@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Scoping Out the Data]]></title>
         <description><![CDATA[Scoping Out the Data]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/scoping-out-the-data/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 19:01:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jul 2016 20:14:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scoping-out-the-data/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ŷhat | A new ggplot is here]]></title>
+            <description><![CDATA[<article><h1>ŷhat | A new ggplot is here</h1><p>A brief note from the author... After launching ggplot in September of 2014 to great fanfare, there was a bit of a "development hiatus". It took a while, but I finally freed up enough of my weekends to give ggplot some TLC (oh wait not that TLC, this TLC).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5a33c56da47dadd8870291c403778bf5/noop.jpg?input=http%3A%2F%2Fblog.yhat.com%2Fstatic%2Fimg%2Fplan-b.jpg"></article>]]></description>
+            <link>http://blog.yhat.com/posts/new-ggplot.html</link>
+            <guid isPermaLink="false">5afaaf41-9f3b-4955-a7d5-b221c20ca573</guid>
+            <pubDate>Thu, 07 Jul 2016 20:14:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f07c4bf-cd24-4172-bada-20ca303a1ccc.jpg">]]></description>
-            <link>undefinedour-first-post/index.html</link>
+            <link>https://thegrid.ai/scoping-out-the-data/our-first-post/index.html</link>
             <guid isPermaLink="false">fb5622f1-0caa-43f3-858b-7c6d549d8f06</guid>
             <pubDate>Thu, 07 Jul 2016 19:01:18 GMT</pubDate>
         </item>
