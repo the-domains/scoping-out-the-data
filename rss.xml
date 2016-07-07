@@ -4,8 +4,15 @@
         <description><![CDATA[Scoping Out the Data]]></description>
         <link>https://thegrid.ai/scoping-out-the-data/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 20:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 20:41:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scoping-out-the-data/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Communicating data science: An interview with a storytelling expert | Tyler Byers]]></title>
+            <description><![CDATA[<article><h1>Communicating data science: An interview with a storytelling expert | Tyler Byers</h1><p>In May I announced that I was assembling a series for the blog covering topics related to creating and presenting analyses including: the ingredients of a well-constructed analysis, data visualization, and practical guides to using tools like Rmarkdown and Jupyter notebooks.</p><img src="http://blog.kaggle.com/wp-content/uploads/2016/06/bike_train-683x.png"></article>]]></description>
+            <link>http://blog.kaggle.com/2016/06/13/communicating-data-science-an-interview-with-a-storytelling-expert-tyler-byers/</link>
+            <guid isPermaLink="false">b7697037-9b62-49e0-89ea-51c71290fd03</guid>
+            <pubDate>Thu, 07 Jul 2016 20:40:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ŷhat | A new ggplot is here]]></title>
             <description><![CDATA[<article><h1>ŷhat | A new ggplot is here</h1><p>A brief note from the author... After launching ggplot in September of 2014 to great fanfare, there was a bit of a "development hiatus". It took a while, but I finally freed up enough of my weekends to give ggplot some TLC (oh wait not that TLC, this TLC).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5a33c56da47dadd8870291c403778bf5/noop.jpg?input=http%3A%2F%2Fblog.yhat.com%2Fstatic%2Fimg%2Fplan-b.jpg"></article>]]></description>
