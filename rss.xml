@@ -7,8 +7,15 @@
         <lastBuildDate>Thu, 07 Jul 2016 20:41:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scoping-out-the-data/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Dataset Spotlight: How ISIS Uses Twitter | Khuram Zaman]]></title>
+            <description><![CDATA[<article><h1>Dataset Spotlight: How ISIS Uses Twitter | Khuram Zaman</h1><p>Many of us know that data collection, cleaning, and processing is a time-consuming and sometimes arduous ordeal that requires patience along with elbow grease. It's usually the end product-insights from an analysis to feed action-that motivates us to munge.</p><img src="http://blog.kaggle.com/wp-content/uploads/2016/05/banner-1000x-1.png"></article>]]></description>
+            <link>http://blog.kaggle.com/2016/06/03/dataset-spotlight-how-isis-uses-twitter/</link>
+            <guid isPermaLink="false">79da8eaa-053c-4558-9945-90c5b3059c10</guid>
+            <pubDate>Thu, 07 Jul 2016 20:41:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Communicating data science: An interview with a storytelling expert | Tyler Byers]]></title>
-            <description><![CDATA[<article><h1>Communicating data science: An interview with a storytelling expert | Tyler Byers</h1><p>In May I announced that I was assembling a series for the blog covering topics related to creating and presenting analyses including: the ingredients of a well-constructed analysis, data visualization, and practical guides to using tools like Rmarkdown and Jupyter notebooks.</p><img src="http://blog.kaggle.com/wp-content/uploads/2016/06/bike_train-683x.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Communicating data science: An interview with a storytelling expert | Tyler Byers</h1><p>In May I announced that I was assembling a series for the blog covering topics related to creating and presenting analyses including: the ingredients of a well-constructed analysis, data visualization, and practical guides to using tools like Rmarkdown and Jupyter notebooks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6f0d5b9b7b062e7d3df3276a8e6f345d/noop.png?input=http%3A%2F%2Fblog.kaggle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fbike_train-683x.png"></article>]]></description>
             <link>http://blog.kaggle.com/2016/06/13/communicating-data-science-an-interview-with-a-storytelling-expert-tyler-byers/</link>
             <guid isPermaLink="false">b7697037-9b62-49e0-89ea-51c71290fd03</guid>
             <pubDate>Thu, 07 Jul 2016 20:40:54 GMT</pubDate>
