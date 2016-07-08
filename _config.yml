@@ -1,6 +1,6 @@
 name: Scoping Out the Data
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.20831
 typography_spectrum: 0.72245
 title: Scoping Out the Data
 cta:
@@ -24,6 +24,6 @@ color:
     - '#c5d4cb'
   brandStrength: 0.6875
   lightness: 0.5625
-  saturation: 0.1875
+  saturation: 0.3125
   rhythmicContrast: 0.5
 purpose: []
