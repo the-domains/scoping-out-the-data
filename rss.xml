@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Scoping Out the Data]]></title>
         <description><![CDATA[Scoping Out the Data]]></description>
-        <link>https://thegrid.ai/scoping-out-the-data/</link>
+        <link>http://matthewbrugman.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 20:41:37 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/scoping-out-the-data/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jul 2016 03:31:58 GMT</lastBuildDate>
+        <atom:link href="http://matthewbrugman.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Data Visualization - People remember the feeling not the numbers]]></title>
+            <description><![CDATA[<article><h1>Data Visualization - People remember the feeling not the numbers</h1><p>How did the participants process the information? The researchers assessed if people could extract information from these visuals and feel confident in doing it. They did not test for comprehension, but for thinking and behavioral patterns. Some of the participants enjoyed the challenge of breaking down an unusual data set.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f2202d031c250ec108a82667d253e648/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*9_f_FYuTu2OOt3vqqNAV3g.jpeg"></article>]]></description>
+            <link>https://silvialisam.com/data-visualization-people-remember-the-feeling-not-the-numbers-db0018dc9998?mkt_tok=eyJpIjoiTkdZellXWmlZek15WldRMiIsInQiOiJxMkdZdllUSlBKZm1qNzhoM1BzWHlBYVl1dnRQTmtyd3hBVlpndmYwdmdGZGNJMmRSS2laeEx1Z0ZaeXQ3TEdGN0k3SGRQb3VmaDBuTnRwVXJPVVdkMHBQZkVZdGhCclhWYk5xTWoxYWpzbz0ifQ%3D%3D#.l2qqmngex</link>
+            <guid isPermaLink="false">a780909e-8f36-4327-9b7d-f19fc7c73538</guid>
+            <pubDate>Fri, 08 Jul 2016 03:31:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dataset Spotlight: How ISIS Uses Twitter | Khuram Zaman]]></title>
-            <description><![CDATA[<article><h1>Dataset Spotlight: How ISIS Uses Twitter | Khuram Zaman</h1><p>Many of us know that data collection, cleaning, and processing is a time-consuming and sometimes arduous ordeal that requires patience along with elbow grease. It's usually the end product-insights from an analysis to feed action-that motivates us to munge.</p><img src="http://blog.kaggle.com/wp-content/uploads/2016/05/banner-1000x-1.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Dataset Spotlight: How ISIS Uses Twitter | Khuram Zaman</h1><p>Many of us know that data collection, cleaning, and processing is a time-consuming and sometimes arduous ordeal that requires patience along with elbow grease. It's usually the end product-insights from an analysis to feed action-that motivates us to munge.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bfe49bdc789598f331715bf58f13cc5b/noop.png?input=http%3A%2F%2Fblog.kaggle.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fbanner-1000x-1.png"></article>]]></description>
             <link>http://blog.kaggle.com/2016/06/03/dataset-spotlight-how-isis-uses-twitter/</link>
             <guid isPermaLink="false">79da8eaa-053c-4558-9945-90c5b3059c10</guid>
             <pubDate>Thu, 07 Jul 2016 20:41:18 GMT</pubDate>
@@ -30,7 +37,7 @@
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f07c4bf-cd24-4172-bada-20ca303a1ccc.jpg">]]></description>
-            <link>https://thegrid.ai/scoping-out-the-data/our-first-post/index.html</link>
+            <link>http://matthewbrugman.com/our-first-post/index.html</link>
             <guid isPermaLink="false">fb5622f1-0caa-43f3-858b-7c6d549d8f06</guid>
             <pubDate>Thu, 07 Jul 2016 19:01:18 GMT</pubDate>
         </item>
