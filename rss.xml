@@ -4,8 +4,15 @@
         <description><![CDATA[Scoping Out the Data]]></description>
         <link>http://matthewbrugman.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 03:31:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 03:32:39 GMT</lastBuildDate>
         <atom:link href="http://matthewbrugman.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Communicating data science: A guide to presenting your work]]></title>
+            <description><![CDATA[<article><h1>Communicating data science: A guide to presenting your work</h1><p>See the forest, see the trees. Here lies the challenge in both performing and presenting an analysis. As data scientists, analysts, and machine learning engineers faced with fulfilling business objectives, we find ourselves bridging the gap between The Two Cultures: sciences and humanities.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6ce9e537b46acacd24e9c55dfc09d7bd/noop.png?input=http%3A%2F%2Fblog.kaggle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fstraw-800x.png"></article>]]></description>
+            <link>http://blog.kaggle.com/2016/06/29/communicating-data-science-a-guide-to-presenting-your-work/</link>
+            <guid isPermaLink="false">454b9c04-eafb-4f41-9576-b4434163662e</guid>
+            <pubDate>Fri, 08 Jul 2016 03:31:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Data Visualization - People remember the feeling not the numbers]]></title>
             <description><![CDATA[<article><h1>Data Visualization - People remember the feeling not the numbers</h1><p>How did the participants process the information? The researchers assessed if people could extract information from these visuals and feel confident in doing it. They did not test for comprehension, but for thinking and behavioral patterns. Some of the participants enjoyed the challenge of breaking down an unusual data set.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f2202d031c250ec108a82667d253e648/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*9_f_FYuTu2OOt3vqqNAV3g.jpeg"></article>]]></description>
