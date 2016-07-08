@@ -7,6 +7,13 @@
         <lastBuildDate>Fri, 08 Jul 2016 03:32:40 GMT</lastBuildDate>
         <atom:link href="http://matthewbrugman.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[It Wasn't Me - Who Is To Blame When Data Goes Wrong?]]></title>
+            <description><![CDATA[<article><h1>It Wasn't Me - Who Is To Blame When Data Goes Wrong?</h1><p>When there is a data breach or algorithms spewing out less than favorable results, who is the first person to blame? Typically, it's the CEO. Even though data collection is now a routine part of business strategy, few companies have considered their own ethical boundaries - of course, until it's too late.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0ced3cf539c0ef5874b4ed9eb3fcc414/croprotate.jpeg?cropheight=4909&cropwidth=7360&degrees=0&input=https%3A%2F%2Fwww-media.umbel.com%2Fmedia%2Fwww%2Flarge_image%2Fblog.jpeg&x=0&y=0"></article>]]></description>
+            <link>https://www.umbel.com/blog/data-rights/it-wasnt-me-who-blame-when-data-goes-wrong/?utm_medium=email&amp;utm_source=newsletter&amp;utm_campaign=160707-truth-in-data&amp;utm_content=body_read-now&amp;mkt_tok=eyJpIjoiTkdZellXWmlZek15WldRMiIsInQiOiJxMkdZdllUSlBKZm1qNzhoM1BzWHlBYVl1dnRQTmtyd3hBVlpndmYwdmdGZGNJMmRSS2laeEx1Z0ZaeXQ3TEdGN0k3SGRQb3VmaDBuTnRwVXJPVVdkMHBQZkVZdGhCclhWYk5xTWoxYWpzbz0ifQ%3D%3D</link>
+            <guid isPermaLink="false">8d16505a-0027-479b-8e9f-79b2948cf1fb</guid>
+            <pubDate>Fri, 08 Jul 2016 03:31:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Communicating data science: A guide to presenting your work]]></title>
             <description><![CDATA[<article><h1>Communicating data science: A guide to presenting your work</h1><p>See the forest, see the trees. Here lies the challenge in both performing and presenting an analysis. As data scientists, analysts, and machine learning engineers faced with fulfilling business objectives, we find ourselves bridging the gap between The Two Cultures: sciences and humanities.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6ce9e537b46acacd24e9c55dfc09d7bd/noop.png?input=http%3A%2F%2Fblog.kaggle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fstraw-800x.png"></article>]]></description>
             <link>http://blog.kaggle.com/2016/06/29/communicating-data-science-a-guide-to-presenting-your-work/</link>
