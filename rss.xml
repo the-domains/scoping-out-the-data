@@ -4,8 +4,15 @@
         <description><![CDATA[Scoping Out the Data]]></description>
         <link>http://matthewbrugman.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 03:32:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 14:02:52 GMT</lastBuildDate>
         <atom:link href="http://matthewbrugman.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Big changes are coming!</p>]]></description>
+            <link>http://matthewbrugman.com/big-changes-are-coming/index.html</link>
+            <guid isPermaLink="false">9b7d4dae-6325-40d4-b723-4d86c2170ee9</guid>
+            <pubDate>Thu, 11 Aug 2016 14:02:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It Wasn't Me - Who Is To Blame When Data Goes Wrong?]]></title>
             <description><![CDATA[<article><h1>It Wasn't Me - Who Is To Blame When Data Goes Wrong?</h1><p>When there is a data breach or algorithms spewing out less than favorable results, who is the first person to blame? Typically, it's the CEO. Even though data collection is now a routine part of business strategy, few companies have considered their own ethical boundaries - of course, until it's too late.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0ced3cf539c0ef5874b4ed9eb3fcc414/croprotate.jpeg?cropheight=4909&cropwidth=7360&degrees=0&input=https%3A%2F%2Fwww-media.umbel.com%2Fmedia%2Fwww%2Flarge_image%2Fblog.jpeg&x=0&y=0"></article>]]></description>
